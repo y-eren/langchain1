@@ -1,0 +1,19 @@
+# Hassas Bilgiler (ASLA GÖNDERİLMEMELİ!)
+.env
+
+# Python Cache ve Gereksiz Dosyalar
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE Dosyaları
+.idea/
+.vscode/
+
+# Sanal Ortam ve Loglar
+.venv/
+venv/
+*.log
+*.tmp
+*.swp
+.DS_Store
